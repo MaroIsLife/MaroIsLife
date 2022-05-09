@@ -1,7 +1,7 @@
 Hi 👋 My name is Maro
 =====================
 
-Software Engineer
+Software Engineer/1337 Student
 -----------------
 
 * 🌍  I'm based in Casablanca

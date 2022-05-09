@@ -4,7 +4,7 @@ Hi 👋 My name is Maro
 Software Engineer/1337 Student
 -----------------
 
-* 🌍  I'm based in Casablanca
+* 🌍  I'm based in Morocco Casablanca
 * ✉️  You can contact me at [ougnou10@gmail.com](mailto:ougnou10@gmail.com)
 * 🧠  I'm learning how to create a web server using C++ sockets
 

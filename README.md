@@ -6,7 +6,7 @@ Hi 👋 My name is Marwan
 
 * 🌍  I'm based in Morocco Casablanca
 * ✉️  You can contact me at [ougnou10@gmail.com](mailto:ougnou10@gmail.com)
-* 🧠  I'm learning how to create a web server using C++
+* 🧠  I'm learning Typescript
 
 ### Skills
 

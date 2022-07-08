@@ -1,7 +1,7 @@
 Hi 👋 My name is Marwan
 =====================
 
-1337 Student
+Software Developer
 -----------------
 
 * 🌍  I'm based in Morocco Casablanca

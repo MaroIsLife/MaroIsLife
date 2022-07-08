@@ -4,7 +4,6 @@ Hi 👋 My name is Marwan
 Software Developer
 -----------------
 
-* 🌍  I'm based in Morocco Casablanca
 * ✉️  You can contact me at [ougnou10@gmail.com](mailto:ougnou10@gmail.com)
 
 ### Skills

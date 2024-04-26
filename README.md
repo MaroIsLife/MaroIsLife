@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maroislife&label=Profile%20views&color=0e75b6&style=flat" alt="maroislife" /> </p>
 
-- 📫 How to reach me **ougnou10@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/0xmaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="0xmaro" height="30" width="40" /></a>

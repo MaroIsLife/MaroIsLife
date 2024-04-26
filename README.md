@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marouane</h1>
-<h3 align="center">An Enthusiastic Full-Stack developer</h3>
+<h1 align="center">Hi 👋/h1>
+<h3 align="center">I'm An Enthusiastic Full-Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maroislife&label=Profile%20views&color=0e75b6&style=flat" alt="maroislife" /> </p>
 
